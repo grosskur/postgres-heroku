@@ -1,0 +1,6 @@
+boto==2.9.9
+distribute==0.6.34
+gevent==0.13.8
+greenlet==0.4.1
+wal-e==0.6.4
+wsgiref==0.1.2
