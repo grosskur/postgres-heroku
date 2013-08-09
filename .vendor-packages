@@ -1,5 +1,6 @@
 lzo 2.06
 lzop 1.03
+pv 1.4.12
 uuid 1.6.2
 openssl 1.0.1e
 postgresql 9.2.4
